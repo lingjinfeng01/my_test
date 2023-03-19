@@ -7,7 +7,7 @@ mianshi_test
 ## 新建
 ![image](https://user-images.githubusercontent.com/87126907/226187150-5a421d5e-01cc-4ed3-9d3d-e69a18679fdc.png)
 
-##编辑
+## 编辑
 ![image](https://user-images.githubusercontent.com/87126907/226187176-7ca6d212-497f-44b9-b1b2-5d13d6c2340c.png)
 
 ## 删除
