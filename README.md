@@ -1,6 +1,6 @@
 # my_test
 mianshi_test
-### 前端Vue3 在about页面
+### 效果在about页面
 ## 基本页面
 ![image](https://user-images.githubusercontent.com/87126907/226187116-14cb4747-1a94-4220-9a14-c0e5a30b848c.png)
 
